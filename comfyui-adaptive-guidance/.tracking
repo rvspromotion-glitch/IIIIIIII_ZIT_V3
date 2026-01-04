@@ -1,7 +1,0 @@
-.github/workflows/publish.yml
-.gitignore
-LICENSE
-README.md
-__init__.py
-example_workflows/AGExample.json
-pyproject.toml
